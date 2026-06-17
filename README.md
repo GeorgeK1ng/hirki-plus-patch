@@ -44,15 +44,19 @@ For manual installation, download the repository as a ZIP and place the extracte
 
 H.P.P. is actively maintained. Future updates may include additional modules, localization improvements, balance adjustments, bug fixes, and compatibility fixes.
 
-Because H.P.P. changes many gameplay systems through modular submods, some conflicts with other mods may only become visible through player reports.
+Because H.P.P. changes many gameplay systems through modular submods, some conflicts with other mods may only become visible during play.
+
+H.P.P. is modular. If another mod changes the same part of the game, you can usually disable only the corresponding H.P.P. module instead of disabling the entire patch.
+
+H.P.P. is designed for Horn of the Abyss on VCMI. Mods that are incompatible with HotA, require HotA to be disabled, or replace HotA in a way that prevents normal HotA-based gameplay should be treated as incompatible with H.P.P. as well.
 
 ## Reporting issues
 
 Please report bugs, compatibility issues, missing translations, or unclear descriptions through GitHub Issues:
 
-https://github.com/bewb3w/hirki-plus-patch/issues
+https://github.com/vcmi-mods/hirki-plus-patch/issues
 
-You can also contact me on the VCMI Discord server as `@bew_`, especially for quick questions or compatibility reports.
+You can also contact me on the VCMI Discord server as `@bew_`, especially for quick questions or other issues with the mod.
 
 ## Polska wersja
 
@@ -60,11 +64,17 @@ HPP zawiera polską lokalizację opisów Launchera oraz wybranych tekstów w grz
 
 Polskie opisy są widoczne w VCMI Launcherze po wybraniu języka polskiego. Lokalizacja została przygotowana z myślą o stylu i terminologii klasycznego polskiego tłumaczenia Heroes III, o ile było to możliwe.
 
+### Informacja o kompatybilności
+
+HPP jest modułowy. Jeśli inny mod zmienia ten sam element gry, zazwyczaj można wyłączyć tylko odpowiedni moduł HPP zamiast całej paczki.
+
+HPP jest projektowany pod HotA on VCMI. Mody niekompatybilne z HotA, wymagające wyłączenia HotA albo zastępujące HotA w sposób uniemożliwiający normalną grę opartą na HotA należy traktować jako niekompatybilne również z HPP.
+
 Błędy w polskich tekstach, terminologii albo brakujące tłumaczenia najlepiej zgłaszać przez GitHub Issues:
 
-https://github.com/bewb3w/hirki-plus-patch/issues
+https://github.com/vcmi-mods/hirki-plus-patch/issues
 
-Można też kontaktować się ze mną na serwerze Discord VCMI jako `@bew_`, szczególnie w przypadku szybkich pytań albo raportów kompatybilności.
+Można też kontaktować się ze mną na serwerze Discord VCMI jako `@bew_`, szczególnie w przypadku szybkich pytań albo innych nieprawidłowości z modem.
 
 ## License
 

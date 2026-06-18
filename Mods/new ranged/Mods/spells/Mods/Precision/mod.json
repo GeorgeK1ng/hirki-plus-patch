@@ -19,7 +19,12 @@
 		"name" : "Precyzja",
 		"description" : "Przebudowuje czar **Precyzja** dla pakietu New Ranged.\n\n## Zmiany czaru\n\n* **Brak biegłości / Podstawowa Precyzja** — zwiększa atak wybranego sojuszniczego strzelca o +3 tylko przy atakach dystansowych.\n* **Zaawansowana Precyzja** — zwiększa atak wybranego sojuszniczego strzelca o +6 tylko przy atakach dystansowych. **Dodatkowo** zwiększa jego zasięg strzału bez kary za odległość o 1 heks, maksymalnie do 11 heksów, oraz daje +1 do szybkości na czas działania czaru.\n* **Mistrzowska Precyzja** — zwiększa atak wszystkich sojuszniczych strzelców o +6 tylko przy atakach dystansowych. **Dodatkowo** zwiększa ich zasięg strzału bez kary za odległość o 2 heksy, maksymalnie do 12 heksów, oraz daje +1 do szybkości na czas działania czaru.",
 		"translations" : [
-			"config/translation/hpp/polish/game.json"
+			"translation/polish.json"
+		]
+	},
+	"czech" : {
+		"translations" : [
+			"translation/czech.json"
 		]
 	}
 }

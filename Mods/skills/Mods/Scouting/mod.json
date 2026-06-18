@@ -11,7 +11,7 @@
 		"name" : "Odkrywanie",
 		"description" : "Usprawnia **Odkrywanie** jako umiejętność zwiadu i wsparcia informacyjnego.\n\nOdkrywanie zachowuje premię do pola widzenia dla samego bohatera, a dodatkowo zwiększa zakres informacji o przeciwnikach dla właściciela bohatera i jego sojuszników. W grze solo pełną korzyść otrzymuje właściciel bohatera; w grach sojuszniczych te same korzyści są współdzielone przez całą drużynę.\n\nPremie informacyjne od wielu bohaterów z Odkrywaniem w tej samej drużynie mogą się kumulować, dzięki czemu umiejętność staje się bardziej użyteczna, zachowując swoją rolę eksploracyjną.\n\n## Efekty umiejętności\n\n* **Podstawowe Odkrywanie:** +1 do pola widzenia bohatera oraz większy zakres informacji o przeciwnikach, jak za 1 dodatkową karczmę, dla właściciela bohatera i jego sojuszników\n* **Zaawansowane Odkrywanie:** +2 do pola widzenia bohatera oraz większy zakres informacji o przeciwnikach, jak za 2 dodatkowe karczmy, dla właściciela bohatera i jego sojuszników\n* **Eksperckie Odkrywanie:** +3 do pola widzenia bohatera oraz większy zakres informacji o przeciwnikach, jak za 3 dodatkowe karczmy, dla właściciela bohatera i jego sojuszników\n\n## Interakcja ze specjalistami\n\nSpecjalności Odkrywania zwiększają wraz z poziomem bohatera tylko pole widzenia samego specjalisty. Nie zwiększają zakresu informacji o przeciwnikach.",
 		"translations" : [
-			"config/translation/hpp/polish/game.json"
+			"translation/polish.json"
 		]
 	},
 	"changelog" : {
@@ -22,4 +22,10 @@
 	"skills" : [
 		"config/skills/Scouting.json"
 	]
+,
+	"czech" : {
+		"translations" : [
+			"translation/czech.json"
+		]
+	}
 }

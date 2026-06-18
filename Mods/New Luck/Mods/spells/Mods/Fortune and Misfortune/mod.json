@@ -20,7 +20,12 @@
 		"name" : "Fortuna i Pech — niezależne szczęście",
 		"description" : "Połączona przebudowa czarów Fortuna i Pech, przygotowana do gry z Horn of the Abyss na VCMI.\n\nTen moduł sprawia, że oba czary kontroli szczęścia są bardziej niezawodne i mają większe znaczenie w walce, zachowując przy tym ich pierwotną relację jako wzajemne kontry.\n\nOba czary mają także obniżone koszty many, aby były praktyczniejszym wyborem w normalnej rozgrywce.\n\n## Zmiany czarów\n\n* **Fortuna** — podnosi szczęście i **gwarantuje minimalny dodatni wynik szczęścia** objętym nią oddziałom na czas działania czaru.\n  * **Brak biegłości**: podnosi szczęście o 1, minimum +1 szczęścia, 5 many.\n  * **Podstawowa**: podnosi szczęście o 1, minimum +1 szczęścia, 4 many.\n  * **Zaawansowana**: podnosi szczęście o 2, minimum +2 szczęścia, 3 many.\n  * **Mistrzowska**: działa na wszystkie sojusznicze oddziały, podnosi szczęście o 2, minimum +2 szczęścia, 2 many.\n\n* **Pech** — obniża szczęście i **gwarantuje maksymalny ujemny wynik szczęścia** objętym nim oddziałom na czas działania czaru.\n  * **Brak biegłości**: obniża szczęście o 1, maksimum -1 szczęścia, 7 many.\n  * **Podstawowy**: obniża szczęście o 1, maksimum -1 szczęścia, 5 many.\n  * **Zaawansowany**: obniża szczęście o 2, maksimum -2 szczęścia, 4 many.\n  * **Mistrzowski**: działa na wszystkie wrogie oddziały, obniża szczęście o 2, maksimum -2 szczęścia, 3 many.",
 		"translations" : [
-			"config/translation/hpp/polish/game.json"
+			"translation/polish.json"
+		]
+	},
+	"czech" : {
+		"translations" : [
+			"translation/czech.json"
 		]
 	}
 }

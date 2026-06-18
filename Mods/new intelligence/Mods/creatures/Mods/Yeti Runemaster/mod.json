@@ -15,12 +15,17 @@
 		"name" : "Runowładne yeti",
 		"description" : "Moduł wsparcia dla **Runowładnych yeti**, przygotowany do gry z Horn of the Abyss na VCMI.\n\nTen moduł pozwala oddziałom **Runowładnych yeti** wspierać **bohaterów z Inteligencją**, zapewniając dodatkową manę bojową zależną od łącznej liczebności tych jednostek w armii bohatera. Runowładne yeti rozwijają swoją runiczną, mistyczną tożsamość, zyskując dodatkową rolę magicznego wsparcia poza standardowymi zdolnościami bojowymi. Podane wartości oznaczają **łączną premię many bojowej** zapewnianą przez tę jednostkę na danym progu.\n\n## Wsparcie many bojowej\n\n* **Runowładny yeti** — wymaga Inteligencji i co najmniej 2 Runowładnych yeti.\n  * **Podstawowa Inteligencja**: 2 lub więcej Runowładnych yeti daje 5 punktów **łącznej many bojowej**; 10 daje 10; 20 daje 15; 40 daje 20.\n  * **Zaawansowana Inteligencja**: 2 lub więcej Runowładnych yeti daje 8 punktów **łącznej many bojowej**; 10 daje 16; 20 daje 24; 40 daje 32.\n  * **Ekspercka Inteligencja**: 2 lub więcej Runowładnych yeti daje 12 punktów **łącznej many bojowej**; 10 daje 24; 20 daje 37; 40 daje 50.",
 		"translations" : [
-			"config/translation/hpp/polish/game.json"
+			"translation/polish.json"
 		]
 	},
 	"changelog" : {
 		"1.0.0" : [
 			"Initial release."
+		]
+	},
+	"czech" : {
+		"translations" : [
+			"translation/czech.json"
 		]
 	}
 }

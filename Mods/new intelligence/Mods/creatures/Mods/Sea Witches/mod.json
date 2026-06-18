@@ -21,7 +21,12 @@
 		"name" : "Zaklinaczki i Czarodziejki",
 		"description" : "Moduł wsparcia dla **Zaklinaczek** i **Czarodziejek**, przygotowany do gry z Horn of the Abyss na VCMI.\n\nTen moduł pozwala oddziałom **Zaklinaczek** i **Czarodziejek** wspierać **bohaterów z Inteligencją**, zapewniając dodatkową manę bojową zależną od łącznej wielkości oddziałów w armii bohatera. **Czarodziejki** zaczynają wspierać wcześniej i skalują się mocniej, dzięki czemu ulepszenie jest bardziej znaczące także poza zwykłymi usprawnieniami bojowymi. Podane wartości oznaczają **łączną premię many bojowej** zapewnianą przez daną linię jednostek na danym progu.\n\n## Wsparcie many bojowej\n\n* **Zaklinaczka** — wymaga Inteligencji i co najmniej 3 Zaklinaczek.\n  * **Podstawowa Inteligencja**: 3 lub więcej Zaklinaczek daje 4 punkty **łącznej many bojowej**; 10 daje 9; 20 daje 14; 30 daje 20.\n  * **Zaawansowana Inteligencja**: 3 lub więcej Zaklinaczek daje 6 punktów **łącznej many bojowej**; 10 daje 13; 20 daje 21; 30 daje 30.\n  * **Ekspercka Inteligencja**: 3 lub więcej Zaklinaczek daje 9 punktów **łącznej many bojowej**; 10 daje 20; 20 daje 32; 30 daje 45.\n\n* **Czarodziejka** — wymaga Inteligencji i co najmniej 2 Czarodziejek.\n  * **Podstawowa Inteligencja**: 2 lub więcej Czarodziejek daje 3 punkty **łącznej many bojowej**; 10 daje 9; 20 daje 18; 30 daje 30.\n  * **Zaawansowana Inteligencja**: 2 lub więcej Czarodziejek daje 6 punktów **łącznej many bojowej**; 10 daje 16; 20 daje 29; 30 daje 45.\n  * **Ekspercka Inteligencja**: 2 lub więcej Czarodziejek daje 11 punktów **łącznej many bojowej**; 10 daje 26; 20 daje 44; 30 daje 65.",
 		"translations" : [
-			"config/translation/hpp/polish/game.json"
+			"translation/polish.json"
+		]
+	},
+	"czech" : {
+		"translations" : [
+			"translation/czech.json"
 		]
 	}
 }

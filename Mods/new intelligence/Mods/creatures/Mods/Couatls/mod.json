@@ -21,7 +21,12 @@
 		"name" : "Koatle i Karmazynowe Koatle",
 		"description" : "Moduł wsparcia dla **Koatli** i **Karmazynowych Koatli**, przygotowany do gry z Horn of the Abyss na VCMI.\n\nTen moduł pozwala oddziałom **Koatli** i **Karmazynowych Koatli** wspierać **bohaterów z Inteligencją**, zapewniając dodatkową manę bojową zależną od łącznej wielkości oddziałów w armii bohatera. Obie jednostki zaczynają wspierać już od 1 jednostki w oddziale. **Koatle** zapewniają mocne wczesne wsparcie z twardym limitem przy 20 jednostkach, a **Karmazynowe Koatle** zaczynają mocniej i zyskują duże późne skalowanie z bardzo dużych oddziałów. Podane wartości oznaczają **łączną premię many bojowej** zapewnianą przez daną linię jednostek na danym progu.\n\n## Wsparcie many bojowej\n\n* **Koatl** — wymaga Inteligencji i co najmniej 1 Koatla. Wsparcie Koatli jest ograniczone do 20 Koatli.\n  * **Podstawowa Inteligencja**: 1 lub więcej Koatli daje 8 punktów **łącznej many bojowej**; 6 daje 14; 12 daje 18; 20 daje 24.\n  * **Zaawansowana Inteligencja**: 1 lub więcej Koatli daje 12 punktów **łącznej many bojowej**; 6 daje 21; 12 daje 27; 20 daje 36.\n  * **Ekspercka Inteligencja**: 1 lub więcej Koatli daje 16 punktów **łącznej many bojowej**; 6 daje 28; 12 daje 36; 20 daje 48.\n\n* **Karmazynowy Koatl** — wymaga Inteligencji i co najmniej 1 Karmazynowego Koatla. Karmazynowe Koatle skalują się dalej po osiągnięciu 40 jednostek.\n  * **Podstawowa Inteligencja**: 1 lub więcej Karmazynowych Koatli daje 10 punktów **łącznej many bojowej**; 5 daje 18; 10 daje 24; 18 daje 30; 30 daje 35; 40 daje 40.\n  * **Zaawansowana Inteligencja**: 1 lub więcej Karmazynowych Koatli daje 15 punktów **łącznej many bojowej**; 5 daje 27; 10 daje 36; 18 daje 45; 30 daje 50; 40 daje 55.\n  * **Ekspercka Inteligencja**: 1 lub więcej Karmazynowych Koatli daje 20 punktów **łącznej many bojowej**; 5 daje 36; 10 daje 48; 18 daje 60; 30 daje 65; 40 daje 70.\n  * **Późne skalowanie**: przy 40+ Karmazynowych Koatli każda kolejna jednostka w oddziale dodaje jeszcze 5 punktów **łącznej many bojowej**.",
 		"translations" : [
-			"config/translation/hpp/polish/game.json"
+			"translation/polish.json"
+		]
+	},
+	"czech" : {
+		"translations" : [
+			"translation/czech.json"
 		]
 	}
 }

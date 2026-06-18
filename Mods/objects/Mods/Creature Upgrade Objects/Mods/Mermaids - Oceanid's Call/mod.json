@@ -20,7 +20,7 @@
 		"name" : "Syreny — Zew Okeanid",
 		"description" : "Zachowuje normalną nagrodę **Syren** do szczęścia i dodaje dodatkową nagrodę ulepszenia jednostek.\n\nGdy bohater odwiedza **Syreny**, obiekt nadal przyznaje normalny bonus **+1 do szczęścia** w następnej bitwie. Dodatkowo, jeśli bohater ma **Nereidy**, syreny mogą odpowiedzieć na zew swoich morskich pobratymczyń i przemienić je w **Okeanidy**.\n\n## Zew Okeanid\n\n* **Nereidy** są przemieniane w **Okeanidy**.\n* Bohaterowie bez Nereid otrzymują tylko normalną nagrodę Syren do szczęścia.\n\n## Zasady wizyty i szczęścia\n\nPrzemiana następuje tylko wtedy, gdy **Syreny** mogą faktycznie obdarzyć bohatera swoim błogosławieństwem szczęścia. Jeśli bohater ma już aktywny bonus Syren, obiekt pozostaje niedostępny do czasu wygaśnięcia tego bonusu.\n\nDzięki temu darmowa przemiana jest powiązana z realnym użyciem błogosławieństwa Syren i zapobiega powtarzaniu darmowych ulepszeń bez wcześniejszego wykorzystania otrzymanego szczęścia.",
 		"translations" : [
-			"config/translation/hpp/polish/game.json"
+			"translation/polish.json"
 		]
 	},
 	"objects" : [
@@ -29,6 +29,11 @@
 	"changelog" : {
 		"1.1.0" : [
 			"Initial release."
+		]
+	},
+	"czech" : {
+		"translations" : [
+			"translation/czech.json"
 		]
 	}
 }

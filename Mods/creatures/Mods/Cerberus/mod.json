@@ -25,7 +25,7 @@
 		"name" : "Cerber",
 		"description" : "Rozwija **Cerbera** z Inferno, dodając mu aktywną zdolność skupionego ataku wręcz.\n\n## Potrójny Kąs\n\n* **Aktywacja** — Cerber aktywuje **Potrójny Kąs** bez zużywania akcji.\n* **Atak** — przy następnym ataku wręcz Cerber trafia tylko jeden cel i zadaje potrójne obrażenia.\n* **Modyfikatory obrażeń** — obrażenia nadal podlegają normalnym modyfikatorom walki wręcz, takim jak Offense.\n* **Kontratak celu** — trafiony cel może kontratakować.\n* **Kontratak Cerbera** — dopóki **Potrójny Kąs** jest aktywny, Cerber nie może kontratakować.\n* **Atak w trzech kierunkach** — dopóki **Potrójny Kąs** jest aktywny, Cerber nie używa swojego normalnego ataku w trzech kierunkach.\n* **Użycia** — zdolność ma 3 użycia na bitwę i zyskuje +1 dodatkowe użycie za każde 40 jednostek w oddziale.",
 		"translations" : [
-			"config/translation/hpp/polish/game.json"
+			"translation/polish.json"
 		]
 	}
 }

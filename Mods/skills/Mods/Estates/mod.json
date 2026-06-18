@@ -8,7 +8,7 @@
 		"name" : "Finanse",
 		"description" : "Wzmacnia **Finanse** jako umiejętność ekonomicznego wsparcia.\n\nFinanse zachowują dzienny dochód w złocie z Horn of the Abyss, a dodatkowo poprawiają kursy wymiany w Targowisku dla drużyny bohatera. W grze solo pełną korzyść otrzymuje właściciel bohatera; w grach sojuszniczych te same korzyści są współdzielone przez całą drużynę.\n\nPremie od wielu bohaterów z Finansami w tej samej drużynie mogą się kumulować, dzięki czemu umiejętność staje się znacznie bardziej wartościowa, zachowując swoją ekonomiczną tożsamość.\n\n## Efekty umiejętności\n\n* **Podstawowe Finanse:** +250 złota dziennie i lepsze kursy wymiany w Targowisku, jak za 1 dodatkowe Targowisko, dla drużyny bohatera\n* **Zaawansowane Finanse:** +500 złota dziennie i lepsze kursy wymiany w Targowisku, jak za 2 dodatkowe Targowiska, dla drużyny bohatera\n* **Eksperckie Finanse:** +1000 złota dziennie i lepsze kursy wymiany w Targowisku, jak za 3 dodatkowe Targowiska, dla drużyny bohatera\n\n## Interakcja ze specjalistą\n\nSpecjalność Lorda Haarta zwiększa współdzielony dochód w złocie, ale nie poprawia dodatkowo kursów wymiany w Targowisku.",
 		"translations" : [
-			"config/translation/hpp/polish/game.json"
+			"translation/polish.json"
 		]
 	},
 	"changelog" : {
@@ -22,4 +22,10 @@
 	"depends" : [
 		"hota"
 	]
+,
+	"czech" : {
+		"translations" : [
+			"translation/czech.json"
+		]
+	}
 }

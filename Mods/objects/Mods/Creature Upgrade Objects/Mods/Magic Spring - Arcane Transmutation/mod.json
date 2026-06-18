@@ -19,7 +19,7 @@
 		"name" : "Magiczne źródło — Tajemna transmutacja",
 		"description" : "Zachowuje normalny efekt podwajania many **Magicznego źródła** i dodaje tematyczne nagrody transmutacji jednostek.\n\nGdy bohater z powodzeniem korzysta z **Magicznego źródła**, źródło nadal podwaja jego manę jak zwykle. Dodatkowo może przemienić sojuszniczych czarodziejów i magicznie uzdolnione istoty w armii bohatera.\n\n## Tajemna transmutacja\n\n* **Arcymagowie** są przemieniani w **Czarodziejów**.\n* Jeśli bohater nie ma Arcymagów, **Magowie** są zamiast tego przemieniani w **Arcymagów**.\n* **Ogry** mogą zostać przemienione w **Ogry Szamany** równolegle z najwyższą dostępną transmutacją linii Magów.\n\nJeśli bohater ma jednocześnie **Magów**, **Arcymagów** i **Ogry**, podczas tej wizyty przemieniani są tylko **Arcymagowie** i **Ogry**; **Magowie** pozostają bez zmian.\n\n## Przynależność Czarodzieja do Tower\n\n**Czarodzieje** zostają globalnie przypisani do **Tower**, dzięki czemu mają **śnieg** jako teren natywny, gdy ten moduł jest aktywny.\n\n## Zasady wizyty i many\n\nTransmutacje następują tylko wtedy, gdy **Magiczne źródło** może faktycznie podwoić manę bohatera. Jeśli bohater nadal ma podwojoną manę z poprzedniej wizyty w **Magicznym źródle**, transmutacje jednostek nie zostaną wykonane, nawet po tygodniowym resecie wizyty.\n\nDzięki temu darmowe transmutacje są powiązane z realnym użyciem magii źródła i zapobiegają powtarzaniu darmowych ulepszeń bez wcześniejszego zużycia podwojonej many.",
 		"translations" : [
-			"config/translation/hpp/polish/game.json"
+			"translation/polish.json"
 		]
 	},
 	"objects" : [
@@ -31,6 +31,11 @@
 	"changelog" : {
 		"1.1.0" : [
 			"Initial release."
+		]
+	},
+	"czech" : {
+		"translations" : [
+			"translation/czech.json"
 		]
 	}
 }

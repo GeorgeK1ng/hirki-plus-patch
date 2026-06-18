@@ -17,7 +17,12 @@
 		"name" : "Mistycyzm",
 		"description" : "Wzmacnia **Mistycyzm** jako umiejętność odzyskiwania many i zdobywania dodatkowego ruchu na mapie przygody.\n\nMistycyzm zachowuje dzienną regenerację punktów many z Horn of the Abyss i dodaje **Mistyczny Impet**. Po udanym rzuceniu wybranych czarów kontrolnych na mapie przygody bohater otrzymuje dodatkowe punkty ruchu następnego dnia. Każdy wspierany czar może dać swój bonus raz dziennie.\n\n## Efekty umiejętności\n\n* **Podstawowy Mistycyzm:** regeneruje 10% maks. liczby punktów many dziennie, minimum 5; Mistyczny Impet dla czarów Wrota wymiarów, Spacer po wodzie, Przyzwanie okrętu i Zniszczenie okrętu\n* **Zaawansowany Mistycyzm:** regeneruje 20% maks. liczby punktów many dziennie, minimum 10; dodaje Mistyczny Impet dla czarów Lot i Miejski portal oraz wzmacnia premie dla wszystkich wspieranych czarów kontrolnych\n* **Ekspercki Mistycyzm:** regeneruje 30% maks. liczby punktów many dziennie, minimum 15; dodatkowo wzmacnia premie Mistycznego Impetu dla wszystkich wspieranych czarów\n\n## Wspierane czary Mistycznego Impetu\n\n* **Podstawowy:** Wrota wymiarów, Spacer po wodzie, Przyzwanie okrętu, Zniszczenie okrętu\n* **Zaawansowany i ekspercki:** Lot, Miejski portal, Wrota wymiarów, Spacer po wodzie, Przyzwanie okrętu, Zniszczenie okrętu\n\n## Interakcja ze specjalistami\n\nSpecjalności Mistycyzmu zwiększają wraz z poziomem bohatera tylko regenerację punktów many. Nie zwiększają premii ruchu z Mistycznego Impetu.\n\n## Uwaga techniczna\n\nMistyczny Impet działa po udanym rzuceniu wspieranego czaru kontrolnego na mapie przygody. Premia ruchu jest przyznawana następnego dnia. Dodatkowe punkty ruchu z różnych wspieranych czarów mogą się sumować, ale każdy z tych czarów może dać swój bonus tylko raz dziennie.",
 		"translations" : [
-			"config/translation/hpp/polish/game.json"
+			"translation/polish.json"
+		]
+	},
+	"czech" : {
+		"translations" : [
+			"translation/czech.json"
 		]
 	}
 }

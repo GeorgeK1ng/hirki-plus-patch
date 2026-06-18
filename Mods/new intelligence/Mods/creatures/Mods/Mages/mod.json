@@ -20,7 +20,12 @@
 		"name" : "Magowie",
 		"description" : "Moduł wsparcia dla **Magów** i **Arcymagów**, przygotowany do gry z Horn of the Abyss na VCMI.\n\nTen moduł pozwala oddziałom **Magów** i **Arcymagów** wspierać **bohaterów z Inteligencją**, zapewniając dodatkową manę bojową zależną od łącznej wielkości oddziałów w armii bohatera. **Arcymagowie** zaczynają wspierać wcześniej i skalują się mocniej, dzięki czemu ulepszenie jest bardziej znaczące także poza zwykłymi usprawnieniami bojowymi. Podane wartości oznaczają **łączną premię many bojowej** zapewnianą przez daną linię jednostek na danym progu.\n\n## Wsparcie many bojowej\n\n* **Mag** — wymaga Inteligencji i co najmniej 4 Magów.\n  * **Podstawowa Inteligencja**: 4 lub więcej Magów daje 3 punkty **łącznej many bojowej**; 10 daje 7; 20 daje 11; 30 daje 15.\n  * **Zaawansowana Inteligencja**: 4 lub więcej Magów daje 5 punktów **łącznej many bojowej**; 10 daje 11; 20 daje 18; 30 daje 25.\n  * **Ekspercka Inteligencja**: 4 lub więcej Magów daje 8 punktów **łącznej many bojowej**; 10 daje 18; 20 daje 29; 30 daje 40.\n\n* **Arcymag** — wymaga Inteligencji i co najmniej 2 Arcymagów.\n  * **Podstawowa Inteligencja**: 2 lub więcej Arcymagów daje 2 punkty **łącznej many bojowej**; 10 daje 7; 20 daje 15; 30 daje 25.\n  * **Zaawansowana Inteligencja**: 2 lub więcej Arcymagów daje 5 punktów **łącznej many bojowej**; 10 daje 14; 20 daje 26; 30 daje 40.\n  * **Ekspercka Inteligencja**: 2 lub więcej Arcymagów daje 10 punktów **łącznej many bojowej**; 10 daje 24; 20 daje 41; 30 daje 60.",
 		"translations" : [
-			"config/translation/hpp/polish/game.json"
+			"translation/polish.json"
+		]
+	},
+	"czech" : {
+		"translations" : [
+			"translation/czech.json"
 		]
 	}
 }

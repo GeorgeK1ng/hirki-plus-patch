@@ -19,7 +19,7 @@
 		"name" : "Łabędzi staw — Błogosławieństwo Jednorożców",
 		"description" : "Zachowuje normalną nagrodę **Łabędziego stawu** do szczęścia i dodaje dodatkową nagrodę ulepszenia jednostek.\n\nGdy bohater odwiedza **Łabędzi staw**, obiekt nadal przyznaje normalny bonus **+2 do szczęścia** w następnej bitwie i jak zwykle zużywa pozostały ruch bohatera. Dodatkowo, jeśli bohater ma **Jednorożce**, staw może pobłogosławić te jednostki i przemienić je w **Jednorożce bitewne**.\n\n## Błogosławieństwo Jednorożców\n\n* **Jednorożce** są przemieniane w **Jednorożce bitewne**.\n* Bohaterowie bez Jednorożców otrzymują tylko normalną nagrodę Łabędziego stawu.\n\nDzięki temu obiekt zachowuje swoją pierwotną rolę związaną ze szczęściem, a Jednorożce Bastionu otrzymują tematyczną okazję do ulepszenia na mapie przygody.",
 		"translations" : [
-			"config/translation/hpp/polish/game.json"
+			"translation/polish.json"
 		]
 	},
 	"objects" : [
@@ -28,6 +28,11 @@
 	"changelog" : {
 		"1.1.0" : [
 			"Initial release."
+		]
+	},
+	"czech" : {
+		"translations" : [
+			"translation/czech.json"
 		]
 	}
 }

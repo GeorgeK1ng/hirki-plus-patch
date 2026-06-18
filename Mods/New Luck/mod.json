@@ -22,7 +22,12 @@
 		"name" : "Nowe Szczęście",
 		"description" : "Przebudowa systemu szczęścia, przygotowana do gry z Horn of the Abyss na VCMI.\n\nTen moduł zachowuje oryginalne wartości umiejętności **Szczęście**, ale rozszerza szczęście w szerszy system rozgrywki:\n\n* **Podstawowe Szczęście** — zwiększa szczęście o 1. Dodatnie szczęście może **przyznać lub wzmocnić** wybrane zdolności jednostek oparte na szansie, a ujemne szczęście może osłabić niektóre istniejące zdolności.\n* **Zaawansowane Szczęście** — zwiększa szczęście o 2. Dodatnie szczęście może **przyznać lub wzmocnić** wybrane zdolności jednostek oparte na szansie, a ujemne szczęście może osłabić niektóre istniejące zdolności.\n* **Eksperckie Szczęście** — zwiększa szczęście o 3. Dodatnie szczęście może **przyznać lub wzmocnić** wybrane zdolności jednostek oparte na szansie, a ujemne szczęście może osłabić niektóre istniejące zdolności.\n\nSkalowanie zdolności jednostek przez szczęście jest obsługiwane przez osobne, opcjonalne moduły jednostek. Dokładne jednostki, progi i wartości są opisane w opisach poszczególnych modułów.\n\n## Zawarte systemy\n\n* **Znak Odwagi** — zmienia **Znak Odwagi** w artefakt klasy **relikt**, zwiększa jego wartość i zmniejsza premię z +3 szczęścia i +3 morale do +2 szczęścia i +2 morale.\n\n* **Czary szczęścia** — obejmują przebudowane czary **Fortuna** i **Pech**. Czary te mają obniżone koszty many i pozostają swoimi bezpośrednimi kontrami, jednocześnie pozwalając bardziej niezawodnie kontrolować dodatnie i ujemne szczęście.\n\n* **Zdolności jednostek — szczęście** — dodają **skalowanie szczęściem** do wybranych zdolności jednostek. Niektóre jednostki **zyskują nową** szansę aktywacji przy dodatnim szczęściu, a inne mają istniejące zdolności modyfikowane przez dodatnie i ujemne szczęście.",
 		"translations" : [
-			"config/translation/hpp/polish/game.json"
+			"translation/polish.json"
+		]
+	},
+	"czech" : {
+		"translations" : [
+			"translation/czech.json"
 		]
 	}
 }

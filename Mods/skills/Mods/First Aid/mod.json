@@ -19,7 +19,12 @@
 		"name" : "Pierwsza pomoc",
 		"description" : "Wzmacnia **Pierwszą pomoc**, zwiększając wytrzymałość Namiotu medyka wraz z poziomem umiejętności, dzięki czemu bohater może dłużej korzystać z jego premii do zdrowia armii.\n\nNamiot medyka zwiększa maks. liczbę punktów życia wszystkich sojuszniczych jednostek w armii bohatera. Ten główny efekt zostaje zachowany, a sam Namiot medyka otrzymuje coraz silniejszą ochronę przed dużymi pojedynczymi atakami. Na poziomie eksperckim ochronę przed pojedynczymi atakami otrzymuje także Wóz z amunicją.\n\n## Efekty umiejętności\n\n* **Podstawowa Pierwsza pomoc:** Namiot medyka zwiększa maks. liczbę punktów życia jednostek o 5%; Namiot medyka nie może stracić więcej niż 40% swojej maks. liczby punktów życia od pojedynczego ataku\n* **Zaawansowana Pierwsza pomoc:** Namiot medyka zwiększa maks. liczbę punktów życia jednostek o 10%; Namiot medyka nie może stracić więcej niż 30% swojej maks. liczby punktów życia od pojedynczego ataku\n* **Ekspercka Pierwsza pomoc:** Namiot medyka zwiększa maks. liczbę punktów życia jednostek o 15%; Namiot medyka i Wóz z amunicją nie mogą stracić więcej niż 20% swojej maks. liczby punktów życia od pojedynczego ataku\n\n## Interakcja ze specjalistami\n\nSpecjalności Pierwszej pomocy zwiększają wraz z poziomem bohatera tylko premię Namiotu medyka do maks. liczby punktów życia jednostek. Nie zwiększają ochrony przed utratą punktów życia od pojedynczego ataku.",
 		"translations" : [
-			"config/translation/hpp/polish/game.json"
+			"translation/polish.json"
+		]
+	},
+	"czech" : {
+		"translations" : [
+			"translation/czech.json"
 		]
 	}
 }

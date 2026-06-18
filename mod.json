@@ -5,7 +5,7 @@
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
 	"contact" : "https://github.com/vcmi-mods/hirki-plus-patch/issues",
-	"version" : "1.1.1",
+	"version" : "1.1.2",
 	"modType" : "Expansion",
 	"compatibility" : {
 		"min" : "1.7.4"
@@ -21,6 +21,10 @@
 		]
 	},
 	"changelog" : {
+		"1.1.2" : [
+			"Added initial Czech translation - all in game text is done, no Launcher related texts for now",
+			"Moved Polish translation files to proper structure"
+		],
 		"1.1.1" : [
 			"Fixed Polish localization keys for selected HPP runtime IDs.",
 			"Added missing Polish fallback text for Trailblazer."

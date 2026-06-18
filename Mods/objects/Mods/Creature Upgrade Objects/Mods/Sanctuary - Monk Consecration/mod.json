@@ -19,7 +19,7 @@
 		"name" : "Sanktuarium — Konsekracja Mnichów",
 		"description" : "Zachowuje normalną rolę ochronną **Sanktuarium** i dodaje dodatkową nagrodę ulepszenia jednostek.\n\nGdy bohater wchodzi do **Sanktuarium**, obiekt nadal chroni go jak zwykle. Dodatkowo, jeśli bohater ma **Mnichów**, sanktuarium może przemienić te jednostki w **Kapłanów**.\n\n## Konsekracja Mnichów\n\n* **Mnisi** są przemieniani w **Kapłanów**.\n* Bohaterowie bez Mnichów otrzymują tylko normalny komunikat ochronny Sanktuarium.\n\nDzięki temu obiekt zachowuje swoją pierwotną rolę defensywną, a mnisi Zamku otrzymują tematyczną okazję do ulepszenia na mapie przygody.",
 		"translations" : [
-			"config/translation/hpp/polish/game.json"
+			"translation/polish.json"
 		]
 	},
 	"objects" : [
@@ -28,6 +28,11 @@
 	"changelog" : {
 		"1.1.0" : [
 			"Initial release."
+		]
+	},
+	"czech" : {
+		"translations" : [
+			"translation/czech.json"
 		]
 	}
 }

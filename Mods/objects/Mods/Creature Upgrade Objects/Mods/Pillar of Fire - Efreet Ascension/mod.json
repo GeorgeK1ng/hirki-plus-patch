@@ -19,7 +19,7 @@
 		"name" : "Wieża ognia — Sułtańskie wyniesienie",
 		"description" : "Zachowuje normalny efekt odsłaniania terenu przez **Wieżę ognia** i dodaje dodatkową nagrodę ulepszenia jednostek.\n\nGdy bohater odwiedza **Wieżę ognia**, obiekt nadal odsłania pobliski teren jak zwykle. Dodatkowo, jeśli bohater ma **Ifryty**, ogień wieży może wynieść je do rangi **Sułtańskich Ifrytów**.\n\n## Sułtańskie wyniesienie\n\n* **Ifryty** są przemieniane w **Sułtańskie Ifryty**.\n* Bohaterowie bez Ifrytów otrzymują tylko normalny efekt odsłaniania terenu przez Wieżę ognia.\n\n## Zasady nieograniczonych wizyt\n\n**Wieża ognia** zachowuje swoje oryginalne zachowanie nieograniczonych wizyt. Wyniesienie może więc nastąpić ponownie, jeśli bohater później przyprowadzi do obiektu nowe Ifryty.\n\nDzięki temu obiekt działa zgodnie ze swoim natywnym charakterem, bez sztucznego ograniczenia do jednej wizyty, ale każde darmowe ulepszenie nadal wymaga faktycznej obecności Ifrytów.",
 		"translations" : [
-			"config/translation/hpp/polish/game.json"
+			"translation/polish.json"
 		]
 	},
 	"objects" : [
@@ -28,6 +28,11 @@
 	"changelog" : {
 		"1.1.0" : [
 			"Initial release."
+		]
+	},
+	"czech" : {
+		"translations" : [
+			"translation/czech.json"
 		]
 	}
 }

@@ -14,12 +14,17 @@
 		"name" : "Bazyliszki większe",
 		"description" : "Moduł wsparcia dla **Bazyliszków większych**, przygotowany do gry z Horn of the Abyss na VCMI.\n\nTen moduł pozwala oddziałom **Bazyliszków większych** wspierać **bohaterów z Inteligencją**, zapewniając dodatkową manę bojową zależną od łącznej wielkości oddziałów w armii bohatera. Bazyliszki większe zyskują dodatkową mistyczną rolę wsparcia, rozwijając swoją magiczną naturę związaną ze skamienieniem poza standardowymi zdolnościami bojowymi. Podane wartości oznaczają **łączną premię many bojowej** zapewnianą przez tę jednostkę na danym progu.\n\n## Wsparcie many bojowej\n\n* **Bazyliszek większy** — wymaga Inteligencji i co najmniej 3 Bazyliszków większych.\n  * **Podstawowa Inteligencja**: 3 lub więcej Bazyliszków większych daje 6 punktów **łącznej many bojowej**; 10 daje 12; 20 daje 15; 30 daje 18.\n  * **Zaawansowana Inteligencja**: 3 lub więcej Bazyliszków większych daje 9 punktów **łącznej many bojowej**; 10 daje 18; 20 daje 23; 30 daje 28.\n  * **Ekspercka Inteligencja**: 3 lub więcej Bazyliszków większych daje 14 punktów **łącznej many bojowej**; 10 daje 28; 20 daje 35; 30 daje 42.",
 		"translations" : [
-			"config/translation/hpp/polish/game.json"
+			"translation/polish.json"
 		]
 	},
 	"changelog" : {
 		"1.0.0" : [
 			"Initial release."
+		]
+	},
+	"czech" : {
+		"translations" : [
+			"translation/czech.json"
 		]
 	}
 }

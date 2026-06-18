@@ -21,7 +21,7 @@
 		"name" : "Namiot trapera — Szkolenie pustkowi",
 		"description" : "Po odwiedzeniu **Namiotu trapera** wybrani wojownicy pustkowi mogą zostać dodatkowo przeszkoleni, a normalny tygodniowy bonus ruchu po terenie pustkowi pozostaje bez zmian.\n\nGdy bohater może otrzymać bonus Namiotu trapera, odpowiednie jednostki mogą zostać dodatkowo ulepszone. **Szamani** stają się **Wielkimi Szamanami**, a **Ogry** stają się **Ogrami Szamanami**. Jeśli w armii są obie linie jednostek, oba ulepszenia następują podczas tej samej wizyty. Bohaterowie bez odpowiednich jednostek otrzymują tylko normalny efekt Namiotu trapera.\n\nMod zachowuje natywne zachowanie wizyty oparte na aktywnym bonusie: bohater, który ma już tygodniowy efekt Namiotu trapera, nie może ponownie użyć obiektu, dopóki ten efekt nie wygaśnie.",
 		"translations" : [
-			"config/translation/hpp/polish/game.json"
+			"translation/polish.json"
 		]
 	},
 	"objects" : [
@@ -33,6 +33,11 @@
 		],
 		"1.1.0" : [
 			"Initial release."
+		]
+	},
+	"czech" : {
+		"translations" : [
+			"translation/czech.json"
 		]
 	}
 }

@@ -19,7 +19,7 @@
 		"name" : "Zaklęty krąg — Przebudzenie Rusałek",
 		"description" : "Zachowuje normalną nagrodę **Zaklętego kręgu** do szczęścia i dodaje dodatkową nagrodę ulepszenia jednostek.\n\nGdy bohater odwiedza **Zaklęty krąg**, obiekt nadal przyznaje normalny bonus **+1 do szczęścia** w następnej bitwie. Dodatkowo, jeśli bohater ma **Nimfy**, magia wróżek może przebudzić je w **Rusałki**.\n\n## Przebudzenie Rusałek\n\n* **Nimfy** są przemieniane w **Rusałki**.\n* Bohaterowie bez Nimf otrzymują tylko normalną nagrodę Zaklętego kręgu do szczęścia.\n\n## Zasady wizyty i szczęścia\n\nPrzemiana następuje tylko wtedy, gdy **Zaklęty krąg** może faktycznie obdarzyć bohatera swoim błogosławieństwem szczęścia. Jeśli bohater ma już aktywny bonus Zaklętego kręgu, obiekt pozostaje niedostępny do czasu wygaśnięcia tego bonusu.\n\nDzięki temu darmowa przemiana jest powiązana z realnym użyciem błogosławieństwa Zaklętego kręgu i zapobiega powtarzaniu darmowych ulepszeń bez wcześniejszego wykorzystania otrzymanego szczęścia.",
 		"translations" : [
-			"config/translation/hpp/polish/game.json"
+			"translation/polish.json"
 		]
 	},
 	"objects" : [
@@ -28,6 +28,11 @@
 	"changelog" : {
 		"1.1.0" : [
 			"Initial release."
+		]
+	},
+	"czech" : {
+		"translations" : [
+			"translation/czech.json"
 		]
 	}
 }

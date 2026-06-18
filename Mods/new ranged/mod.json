@@ -37,7 +37,12 @@
 		"name" : "Nowa walka dystansowa",
 		"description" : "Przebudowa walki dystansowej, przygotowana do gry z Horn of the Abyss na VCMI.\n\nTen moduł sprawia, że jednostki strzelające, amunicja, machiny wojenne i czary wspierające strzelców tworzą bardziej spójny system. Amunicja staje się realnym zasobem, Łucznictwo i Artyleria mocniej współpracują ze sobą, a wybrane artefakty i czary lepiej wspierają taktykę walki dystansowej.\n\n## Zawarte systemy\n\n* **Amunicja strzelców** — ustala nową bazową liczbę strzałów dla jednostek strzelających. Ulepszone jednostki zwykle otrzymują więcej amunicji niż ich podstawowe wersje, a wybrane jednostki specjalne mają własne wartości.\n\n* **Wóz z amunicją** — w pakiecie New Ranged działa jako dodatkowe źródło amunicji, zamiast zapewniać nieskończoną liczbę strzałów. Zapewnia sojuszniczym jednostkom strzelającym +5 do maksymalnej liczby strzałów w bieżącej bitwie.\n\n* **Łucznictwo** — zwiększa obrażenia jednostek strzelających, rozwija ich maksymalną liczbę strzałów i na wyższych poziomach zwiększa zasięg strzału bez kary za odległość. Na poziomie eksperckim ataki dystansowe nakładają **Podstawowe Zapomnienie**.\n\n* **Artyleria** — zachowuje klasyczny rozwój kontroli Balisty, podwójnego strzału i podwójnych obrażeń, a dodatkowo chroni Balistę, Działo oraz powiązane z nimi Wozy z amunicją przed zbyt dużą utratą punktów życia od pojedynczego ataku.\n\n* **Synergia Łucznictwa i Artylerii** — z umiejętnością Artyleria, Balista i Działo mogą otrzymać odpowiadające premie Łucznictwa zależne od poziomu obu umiejętności.\n\n* **Precyzja** — wzmacnia ataki dystansowe sojuszniczych strzelców. Na wyższych poziomach dodatkowo zwiększa zasięg strzału bez kary za odległość i daje +1 do szybkości na czas działania czaru.\n\n* **Bohaterowie walki dystansowej** — Torosar zaczyna z Podstawową Artylerią zamiast Podstawowego Mistycyzmu, dzięki czemu lepiej wspiera swoją specjalizację w Baliście.\n\n* **Artefakty dystansowe** — Złoty Łuk, Łuk Strzelca i Wóz z amunicją zostały dopasowane do nowej ekonomii walki dystansowej.",
 		"translations" : [
-			"config/translation/hpp/polish/game.json"
+			"translation/polish.json"
+		]
+	},
+	"czech" : {
+		"translations" : [
+			"translation/czech.json"
 		]
 	}
 }

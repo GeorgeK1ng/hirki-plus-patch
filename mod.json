@@ -10,9 +10,7 @@
 	"compatibility" : {
 		"min" : "1.7.4"
 	},
-	"depends" : [
-		"hota"
-	],
+	"depends" : [	"hota"	],
 	"polish" : {
 		"name" : "Hirki Plus Patch (H.P.P.)",
 		"description" : "Modularna poprawka rozgrywki i balansu dla Heroes of Might and Magic III na VCMI, przeznaczona do gry z Horn of the Abyss.",

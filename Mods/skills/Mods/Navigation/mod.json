@@ -6,7 +6,7 @@
 	"modType" : "Skills",
 	"polish" : {
 		"name" : "Nawigacja",
-		"description" : "Usprawnia **Nawigację** jako bardziej elastyczną umiejętność podróży morskich.\n\nNawigacja zachowuje oryginalną premię do ruchu na wodzie, a dodatkowo pozwala bohaterom wchodzić na okręt i schodzić z niego bez kończenia tury. Podczas przejścia pozostały ruch jest przeliczany między ruchem lądowym i wodnym, więc dokładna ilość zachowanego ruchu zależy od aktualnych punktów ruchu bohatera i jego modyfikatorów.\n\n## Efekty umiejętności\n\n* **Podstawowa Nawigacja:** +50% ruchu na wodzie oraz wchodzenie na okręt i schodzenie z niego bez kończenia tury\n* **Zaawansowana Nawigacja:** +100% ruchu na wodzie oraz wchodzenie na okręt i schodzenie z niego bez kończenia tury\n* **Ekspercka Nawigacja:** +150% ruchu na wodzie oraz wchodzenie na okręt i schodzenie z niego bez kończenia tury\n\n## Interakcja ze specjalistami\n\nSpecjalności Nawigacji zwiększają wraz z poziomem bohatera tylko ruch na wodzie specjalisty. Nie zwiększają bezpośrednio efektu wchodzenia na okręt i schodzenia z niego bez kończenia tury.",
+		"description" : "Usprawnia **Nawigację** jako bardziej elastyczną umiejętność podróży morskich.\n\nNawigacja zachowuje oryginalną premię do ruchu na wodzie, a dodatkowo pozwala bohaterom wchodzić na okręt i schodzić z niego bez kończenia tury. Podczas przejścia pozostały ruch jest przeliczany między ruchem lądowym i wodnym, więc dokładna ilość zachowanego ruchu zależy od aktualnych punktów ruchu bohatera i jego modyfikatorów.\n\n## Efekty umiejętności\n\n* **Podstawowa Nawigacja:** +50% ruchu na wodzie oraz wchodzenie na okręt i schodzenie z niego bez kończenia tury\n* **Zaawansowana Nawigacja:** +100% ruchu na wodzie oraz wchodzenie na okręt i schodzenie z niego bez kończenia tury\n* **Mistrzowska Nawigacja:** +150% ruchu na wodzie oraz wchodzenie na okręt i schodzenie z niego bez kończenia tury\n\n## Interakcja ze specjalistami\n\nSpecjalności Nawigacji zwiększają wraz z poziomem bohatera tylko ruch na wodzie specjalisty. Nie zwiększają bezpośrednio efektu wchodzenia na okręt i schodzenia z niego bez kończenia tury.",
 		"translations" : [
 			"translation/polish.json"
 		]
@@ -16,7 +16,8 @@
 	],
 	"skills" : [
 		"config/skills/Navigation.json"
-	],
+	]
+,
 	"czech" : {
 		"translations" : [
 			"translation/czech.json"

@@ -2,7 +2,7 @@
 
 **Hirki Plus Patch (H.P.P.)** is a modular gameplay and balance patch for *Heroes of Might and Magic III* on VCMI, designed for use with **Horn of the Abyss**.
 
-The mod focuses on making underused creatures, skills, spells, heroes, war machines, and selected map objects more practical and interesting while preserving the classic feel of Heroes III.
+The mod focuses on making underused creatures, skills, spells, heroes, war machines, selected town buildings, selected artifacts, and selected map objects more practical and interesting while preserving the classic feel of Heroes III.
 
 ## Requirements
 
@@ -17,10 +17,20 @@ The mod focuses on making underused creatures, skills, spells, heroes, war machi
 - ranged combat and war machine changes
 - selected spell improvements
 - selected hero updates
+- selected artifact reworks and related interactions
 - creature ability modules
+- town building and ritual modules
 - map object reward modules
 - English wording cleanup
 - Polish localization
+
+## Version 1.2.0 highlights
+
+- **Towns** — adds Elemental Ritual and weekly town-building rewards for resource and gold specialists.
+- **Spells** — reworks Slayer and Magic Mirror to give them clearer tactical roles.
+- **New Luck** — expands Magic Mirror interactions through Luck-based scaling.
+- **New Ranged** — updates Archery ammo support at Advanced and Expert mastery.
+- **Artifacts** — adds Diplomatic Artifacts, a focused rework of diplomacy-related artifacts and interactions.
 
 ## Modular design
 
@@ -61,6 +71,14 @@ You can also contact me on the VCMI Discord server as `@bew_`, especially for qu
 ## Polska wersja
 
 HPP zawiera polską lokalizację opisów Launchera oraz wybranych tekstów w grze.
+
+Wersja 1.2.0 rozwija kilka kategorii modułów:
+
+- **Miasta** — dodaje Rytuał żywiołów oraz tygodniowe nagrody z budynków miast dla specjalistów surowców i złota.
+- **Czary** — przebudowuje Slayera i Magic Mirror, nadając im wyraźniejsze zastosowania taktyczne.
+- **Nowe szczęście** — rozszerza interakcje Magic Mirror przez skalowanie oparte na szczęściu.
+- **Nowe strzelanie** — aktualizuje wsparcie Archery dla amunicji na poziomie zaawansowanym i eksperckim.
+- **Artefakty** — dodaje Artefakty dyplomatyczne, czyli skupioną przebudowę artefaktów i interakcji związanych z Dyplomacją.
 
 Polskie opisy są widoczne w VCMI Launcherze po wybraniu języka polskiego. Lokalizacja została przygotowana z myślą o stylu i terminologii klasycznego polskiego tłumaczenia Heroes III, o ile było to możliwe.
 
